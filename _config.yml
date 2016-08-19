@@ -1,3 +1,4 @@
+layout_spectrum: 0.64702637353912
 typography_spectrum: 0.8837706570047885
 color:
   brandStrength: 0.3445656234398484
@@ -10,11 +11,4 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-layout_spectrum: 0.64702637353912
-author:
-  name: Christopher M. Lacey
-  email: chrislacey@gmail.com
-  url: www.chrislacey.com
 name: Christopher M. Lacey
-title: Online Marketing Expert & Chocolate Lover
-description: 'lover of family, animals and sour patch kids'
